@@ -2,7 +2,7 @@
 Unity Version: 2020.1.12f1  
 OS: Windows
 
-<img src="screenshots/board.png" width=200> 
+<img src="screenshots/board.png"> 
 
 ## Notes
 ### Players Turn :sunglasses:
