@@ -1,6 +1,9 @@
 # monopoly-unity
 Unity Version: 2020.1.12f1  
 OS: Windows
+
+<img src="screenshots/board.png" width=200> 
+
 ## Notes
 ### Players Turn :sunglasses:
  
